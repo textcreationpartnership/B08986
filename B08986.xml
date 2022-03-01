@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie on the death of that learned and pious divine Mr. John Gibbon, late minister of St. Anne Black-Friers, London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08986</idno>
+            <idno type="STC">Wing E388A</idno>
+            <idno type="STC">ESTC R174921</idno>
+            <idno type="EEBO-CITATION">64551202</idno>
+            <idno type="OCLC">ocm 64551202</idno>
+            <idno type="VID">184541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184541)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie on the death of that learned and pious divine Mr. John Gibbon, late minister of St. Anne Black-Friers, London</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gibbon, John, --  Mr --  Death and burial.</term>
+               <term>Elegiac poetry --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:184541:1" rendition="simple:additions"/>
+            <head>AN ELEGIE On the DEATH of that Learned and Pious Divine M<hi rend="sup">r</hi> JOHN GIBBON, Late Miniſter of S<hi rend="sup">t</hi> 
+               <hi>Anne Black-Friers,</hi> London.</head>
+            <lg>
+               <l>NOt that I think my rude unpoliſht Verſe</l>
+               <l>A meet <hi>Encomium</hi> for this Noble Herſe,</l>
+               <l>This trifle my oblig'd affection paies,</l>
+               <l>The proof, more of my Pen'ry, than his Praiſe.</l>
+               <l>Whilſt others, who are Learned, ſacrifice</l>
+               <l>From their abundant Ingenuities:</l>
+               <l>I With my Mite, (according to my Sphere)</l>
+               <l>Bring an Oblation of poor Camels hair.</l>
+               <l>So Pepper cornes are Tribute to expreſs</l>
+               <l>A Homage due, not their own Worthineſs.</l>
+            </lg>
+            <lg>
+               <l>You who are Artiſts, and have wit at will,</l>
+               <l>(Matter adequate, and proportion'd skill,</l>
+               <l>To the fair Subject) build a Monument</l>
+               <l>High (if you can) as the miraculous Saint.</l>
+               <l>To let ſucceeding Generations ſee</l>
+               <l>His wonders, and admire as well as we.</l>
+            </lg>
+            <lg>
+               <l>In vain you toyl, if this you think to do,</l>
+               <l>Unleſs you can be <hi>Gibbon</hi>-hearted too.</l>
+               <l>Thus to commence his Poet in degree,</l>
+               <l>Requireth more than ſingle Sophiſtry.</l>
+               <l>Were there a Conſtellation of Wit</l>
+               <l>Met in Conjunction, there were need of it,</l>
+               <l>To draw the Pourtrait of his frailer Glory,</l>
+               <l>But there needs more to reach his upper Story.</l>
+               <l>To ſay how good he was, how truly great,</l>
+               <l>How meek, how generous, how kindly ſweet,</l>
+               <l>How much of Heaven compriz'd in ſingle man,</l>
+               <l>How real and how rare a Chriſtian,</l>
+               <l>And to do Juſtice to his Piety,</l>
+               <l>Would even poſe an Univerſity.</l>
+               <l>To ſay how he did act, how he did teach,</l>
+               <l>How he did in Seraphick manner preach,</l>
+               <l>How he did Bleſſedneſs anticipate,</l>
+               <l>By living here at a triumphant Rate,</l>
+               <l>How he did ſeem a torrid Zone of Zeal,</l>
+               <l>Which he employ'd not to enflame but heal,</l>
+               <l>How he had Faith, which conquered by the Word</l>
+               <l>More of the world than <hi>Caeſar</hi> by his Sword,</l>
+               <l>How he did love without diſſimulation,</l>
+               <l>How he did all things to Edification.</l>
+               <l>This is an undertaking only fit</l>
+               <l>For the Divine and Evangelick Wit</l>
+               <l>Of a bleſt <hi>Herbert;</hi> common, ſlighter ſtile</l>
+               <l>Will not exalt, but his great Name defile:</l>
+               <l>Some ſuch inſpir'd one take the task, and be</l>
+               <l>The Herald of his ſo vaſt Exc'llency,</l>
+               <l>In ſuch ſad and pathetick Accents ſhew</l>
+               <l>The doleful portent of this publick Blow,</l>
+               <l>As may make ſtupid Rocks relent, and move</l>
+               <l>A ſorrow as extenſive, as his Love;</l>
+               <l>Which was not limited, but did extend</l>
+               <l>To the whole world an univerſal Friend.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184541:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
